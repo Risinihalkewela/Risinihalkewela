@@ -7,7 +7,7 @@ BSc in Applied Data Science Communication undergraduate passionate about data an
 - Python
 - SQL
 - R
-- Java
+- Java (Basic)
 - Power BI
 - Machine Learning
 - Data Analysis
@@ -27,6 +27,7 @@ BSc in Applied Data Science Communication undergraduate passionate about data an
 - Power BI
 - SQL Server
 - Flask
+- streamlit
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/risini-halkewela-330055360
