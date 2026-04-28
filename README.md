@@ -1,49 +1,31 @@
 # Hi, I'm Risini 👋
 
-## About Me
-BSc in Applied Data Science Communication undergraduate passionate about data analytics, machine learning, and data visualization.
+🎓 Final-year undergraduate in **Applied Data Science Communication** at General Sir John Kotelawala Defence University, Sri Lanka.  
+💡 Passionate about bridging **data insights** with **business solutions** through management-oriented data science.  
+📊 Skilled in **Python, R, SQL, Power BI, Machine Learning, Data Visualization, Predictive Analytics**.  
+🌍 Interested in **data storytelling, dashboards, and applied analytics for decision-making**.  
 
-## Technical Skills
-- Python
-- SQL
-- R
-- Java (Basic)
-- Power BI
-- Machine Learning
-- Data Analysis
+---
 
-## Projects
-- Flood Risk Prediction in Sri Lanka
-- E-Commerce Demand Prediction
-- Health Expenditure Analysis
-- Renewable Energy Dashboard
-- AI Policy Summarization App
+## 🚀 Projects
+- **E-Commerce Demand Prediction** – Smart Goods Recommendation System (95.68% accuracy)  
+- **Flood Risk Prediction in Sri Lanka** – CRISP-DM methodology with ML models  
+- **Health Expenditure Analysis (Australia)** – Classification & clustering with R  
+- **Global Emissions Dashboard** – Interactive Power BI dashboard with SQL + DAX  
+- **Policy Summarization App** – Flask + Groq API for accessible policy insights  
 
-## Tools & Technologies
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Power BI
-- SQL Server
-- Flask
-- streamlit
+---
 
-## Connect With Me
-LinkedIn: www.linkedin.com/in/risini-halkewela-330055360
-Email: risinihalkewela@gmail.com
+## 🛠️ Tech Stack
+- **Languages:** Python, R, SQL, Java  
+- **Tools:** Power BI (DAX, Dashboards), SQL Server  
+- **Concepts:** Machine Learning, Predictive Modeling, Data Visualization, Statistical Analysis  
 
-<!--
-**Risinihalkewela/Risinihalkewela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/risini-halkewela-330055360)  
+- [Email](mailto:risinihalkewela@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+✨ *“Turning complex datasets into actionable insights for real-world impact.”*
