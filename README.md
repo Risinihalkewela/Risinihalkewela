@@ -12,7 +12,7 @@
 - **Flood Risk Prediction in Sri Lanka** – CRISP-DM methodology with ML models  
 - **Health Expenditure Analysis (Australia)** – Classification & clustering with R  
 - **Global Emissions Dashboard** – Interactive Power BI dashboard with SQL + DAX  
-- **Policy Summarization App** – Flask + Groq API for accessible policy insights  
+- **UK Visa Sponsorship Trends** – SQL Server + Power BI dashboards analyzing study & work migration patterns    
 
 ---
 
