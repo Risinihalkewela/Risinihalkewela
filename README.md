@@ -25,7 +25,8 @@
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/risini-halkewela-330055360)  
-- [Email](mailto:risinihalkewela@gmail.com)  
+- [Email](mailto:risinihalkewela@gmail.com)
+- [Portfolio]( risinihalkewela.github.io)
 
 ---
 ✨ *“Turning complex datasets into actionable insights for real-world impact.”*
